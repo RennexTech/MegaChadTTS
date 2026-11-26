@@ -1,4 +1,4 @@
-The Three additions to my TTS collections, KittenTTS, PocketTTS and SopranoTTS and their Graphical User Interfaces. Let's go!!!🤘
+The Three additions to my TTS collections, KittenTTS, PocketTTS and SopranoTTS and their Graphical User Interfaces. Let's go!!! 🚀😈
 
 If you want the bigger TTS software like Qwen and the rest from 300m to 4 billion parameter sized ones that have emotions, expressions, I'll do them when I get a better PC that can test them out. 
 
@@ -14,7 +14,6 @@ SopranoTTS sounds like a higher quality version of PiperTTS which has that robot
 
 <img width="1423" height="892" alt="image" src="https://github.com/user-attachments/assets/a52ca165-c010-4e1a-81b2-cbc76e36fdd6" />
 
-
-
+Load a voice -> Let it download in the background -> Load another -> let it download. (To see this progress, just use the .bat file, it will show download progress.
 
 
